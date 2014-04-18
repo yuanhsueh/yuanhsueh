@@ -1,0 +1,8 @@
+blockquote {
+  background-color: rgba(102, 205, 206, 1);
+  background-color: #55ACEE;
+  color:#fff;
+}
+blockquote:before {
+  border-top-color: #55ACEE;
+}

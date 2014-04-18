@@ -1,0 +1,8 @@
+body{
+  /* would like to use 'Gotham Rounded A' from typography.com, but nee to subscribe fro $99 per year, too much. */
+  /* font-family: "Gotham Rounded A","Gotham Rounded B","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 15px;
+}
